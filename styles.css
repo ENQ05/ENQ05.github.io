@@ -1,0 +1,5 @@
+body {
+    height: 700px;
+    background: bottom center / cover no-repeat url("banner.png");
+    background-color: black;
+}
