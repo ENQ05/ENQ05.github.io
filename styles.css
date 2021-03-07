@@ -1,5 +1,28 @@
 body {
+    background-color: black;
+    color: white;
+}
+
+header {
     height: 700px;
     background: bottom center / cover no-repeat url("banner.png");
-    background-color: black;
+}
+
+section {
+    width: 750;
+    margin: auto;
+    padding: 1em;
+}
+
+p {
+}
+
+h1 {
+    text-align: center;
+}
+
+.item-image {
+    float: left;
+    margin-right: 2em;
+    margin-bottom: 2em;
 }
